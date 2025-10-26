@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Charliek13
-- 👀 I’m interested in 3D modelling + texturing models
+- 👀 I’m interested in 3D modelling + texturing models + Coding
 - 🌱 I’m currently learning 3ds max, substance painter and zbrush
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
